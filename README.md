@@ -16,5 +16,4 @@ grid independence study
 
 velocity contours and vortices in near to the cylinder.
 
-![image](https://github.com/Panchal1810/Flow-over-2D-squre-cylinder/assets/122630851/dc48e029-c527-4f3a-a9e7-3fd230969332) ![image](https://github.com/Panchal1810/Flow-over-2D-squre-cylinder/assets/122630851/d648e33b-225d-465a-8be4-047a770c95e2)
-
+ ![image](https://github.com/Panchal1810/Flow-over-2D-squre-cylinder/assets/122630851/d648e33b-225d-465a-8be4-047a770c95e2) ![image](https://github.com/Panchal1810/Flow-over-2D-squre-cylinder/assets/122630851/dc48e029-c527-4f3a-a9e7-3fd230969332)
